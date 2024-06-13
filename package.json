@@ -1,0 +1,19 @@
+{
+  "name": "10-jr-word-counter-cli",
+  "version": "1.0.0",
+  "description": "This is an word counter",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "javaria raheel",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
